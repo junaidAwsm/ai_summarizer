@@ -1,1 +1,1 @@
-# An AI Summarizer
+# AI Summarizer
